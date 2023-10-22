@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruangsiriluw
+- 👋 Hi, I’m @Wanida
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning R and Python3
 - 💞️ I’m looking to collaborate on ...
